@@ -1,12 +1,7 @@
 #elem {
-background-color: #4dee99;
-height:150px;
-width:200px;
-
-}
-#elem p {
-	color: white;
-	text-align: center;
-	font-weight: bold;
-	font-size: 25px;
+	border-width: 4px;
+	border-style: ridge;
+	border-color: blue;
+	width: 300px;
+	height: 200px;
 }
